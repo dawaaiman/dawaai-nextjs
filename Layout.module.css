@@ -1,0 +1,21 @@
+
+.header {
+  background: #def2ec;
+  padding: 1rem 2rem;
+  text-align: center;
+}
+.logo {
+  margin: 0;
+  font-size: 1.8rem;
+  color: #219b81;
+}
+.main {
+  min-height: 80vh;
+}
+.footer {
+  background: #e8f8f2;
+  text-align: center;
+  padding: 1rem;
+  color: #666;
+  font-size: 0.9rem;
+}
